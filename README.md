@@ -11,8 +11,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=chandankr111&color=blue&style=flat-square&label=Profile+Views)
-
 <a href="https://github.com/chandankr111">
   <img src="https://github-readme-stats.vercel.app/api?username=chandankr111&show_icons=true&theme=radical&hide_border=true" height="165"/>
 </a>
