@@ -16,9 +16,9 @@
 <a href="https://github.com/chandankr111">
   <img src="https://github-readme-stats.vercel.app/api?username=chandankr111&show_icons=true&theme=radical&hide_border=true" height="165"/>
 </a>
-<a href="https://github.com/chandankr111">
+<!-- <a href="https://github.com/chandankr111">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandankr111&layout=compact&theme=radical&hide_border=true" height="165"/>
-</a>
+</a> -->
 
 <br>
 
