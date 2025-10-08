@@ -4,20 +4,9 @@
 ### 🧠 About Me
 
 **Name:** Chandan Kumar  
-**College:** Indian Institute of Technology, Guwahati 🏫  
-**Department:** Computer Science & Engineering  
+**College:** Indian Institute of Technology, Guwahati 🏫   
 **Location:** India 🇮🇳  
-
 ---
-
-### 💻 Skills
-- **Languages:** C, C++, Python, JavaScript, TypeScript  
-- **Frameworks:** React, Next.js, Express, Node.js  
-- **Tools:** Git, Docker, Linux, VS Code  
-- **Interests:** Web Dev • Competitive Programming • System Design  
-
----
-
 ### ⚙️ GitHub Stats & Languages
 
 <div align="center">
@@ -61,21 +50,8 @@
 
 ---
 
-### 📫 Contact
 - **Email:** chandankr111@gmail.com  
-- **LinkedIn:** [linkedin.com/in/chandankr111](https://linkedin.com/in/chandankr111)  
-- **LeetCode:** [leetcode.com/chandankr111](https://leetcode.com/chandankr111)  
-
----
-
-### 🧩 Hobbies
-Coding • Reading • Music • Building cool stuff 🚀  
-
----
-
-### 🕹️ Fun Fact
-> "Code is like humor — when you have to explain it, it’s bad."
-
----
-
-## 🖥️ System Info
+- **LinkedIn:** [linkedin.com/in/chandankr111](https://www.linkedin.com/in/chandan-kumar-55023524b/)  
+- **X:** [x.com/chandan89531144](https://x.com/chandan89531144)
+- **Leetcode:** [leetcode.com/u/chandankr824142/](https://leetcode.com/u/chandankr824142/)
+- **Portfolio:** [chandan-portfolio-website-beta-five-99.vercel.app/](https://chandan-portfolio-website-beta-five-99.vercel.app/)  
