@@ -4,13 +4,9 @@
 ### 🧠 About Me
 
 **Name:** Chandan Kumar  
-**College:** Indian Institute of Technology, Guwahati 🏫   
+**College:** Indian Institute of Technology, Guwahati '26   
 **Location:** India 🇮🇳  
 
-
-### 🏆 Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=chandankr111&theme=radical&margin-w=10&margin-h=10)
 
 ---
 
