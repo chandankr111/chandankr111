@@ -10,7 +10,7 @@
 
 ---
 
-- **Email:** chandankr111@gmail.com  
+ 
 - **LinkedIn:** [linkedin.com/in/chandankr111](https://www.linkedin.com/in/chandan-kumar-55023524b/)  
 - **X:** [x.com/chandan89531144](https://x.com/chandan89531144)
 - **Leetcode:** [leetcode.com/u/chandankr824142/](https://leetcode.com/u/chandankr824142/)
